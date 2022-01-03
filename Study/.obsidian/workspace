@@ -7,12 +7,8 @@
         "id": "77f92c3af8fea488",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Robotics/Control/DC-MPC.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -81,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/Control/DC-MPC.md",
+                "file": "Robotics/Control/Model Predictive Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +103,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "77f92c3af8fea488",
+  "active": "930a83ef1dcdf4c9",
   "lastOpenFiles": [
-    "Robotics/Control/DC-MPC.md",
     "Robotics/Control/Model Predictive Control.md",
+    "Robotics/Untitled.md",
+    "Robotics/TODO.md",
+    "Robotics/Control/DC-MPC.md",
     "Robotics/Control/Predictive Control.md"
   ]
 }
