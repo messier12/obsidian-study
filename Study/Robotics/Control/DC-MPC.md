@@ -1,2 +1,2 @@
 # Disturbance Compensated MPC
-An improvement of [[Model Predictive Control]] for plant that has some disturbance.
+A variant of [[Model Predictive Control]] for plant that has some disturbance.
