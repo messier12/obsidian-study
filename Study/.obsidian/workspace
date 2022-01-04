@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Robotics/Signal and System/Discretization.md",
+            "file": "Robotics/Control/Model Predictive Control.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Robotics/Signal and System/Discretization.md",
+            "file": "Robotics/Control/Model Predictive Control.md",
             "mode": "preview",
             "source": false
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244
   },
   "right": {
     "id": "1b5832da350c6f8c",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/Signal and System/Discretization.md",
+                "file": "Robotics/Control/Model Predictive Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290
   },
   "active": "77f92c3af8fea488",
   "lastOpenFiles": [
-    "Robotics/Signal and System/Discretization.md",
     "Robotics/Control/Model Predictive Control.md",
-    "Robotics/Untitled.md",
     "Robotics/TODO.md",
     "Robotics/Control/DC-MPC.md",
+    "Robotics/Signal and System/Discretization.md",
     "Robotics/Control/Predictive Control.md"
   ]
 }
