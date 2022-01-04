@@ -16,7 +16,6 @@ $\symbf{S} u_{t+k} \leq \symbf{T} \:, k \in \{1,2..,N-1\}$
 
 $\symbf{u}_t'$ is a sequence of control inputs $u\in U$ with the size of prediction horizon $N$ consisting of  $\{u_{t},u_{t+1}...+u_{t+N-1}\}$
 
-test.
 
 
 
