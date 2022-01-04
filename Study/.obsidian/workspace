@@ -99,6 +99,28 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2216fc9258a2ad91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d270132f4b059a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -110,11 +132,9 @@
   "active": "77f92c3af8fea488",
   "lastOpenFiles": [
     "Robotics/Control/Model Predictive Control.md",
+    "Robotics/Signal and System/Discretization.md",
     "Robotics/TODO.md",
-    "Robotics/Signal and System/Discretization.md",
-    "Robotics/Untitled.md",
     "Robotics/Control/DC-MPC.md",
-    "Robotics/Signal and System/Discretization.md",
     "Robotics/Control/Predictive Control.md"
   ]
 }
