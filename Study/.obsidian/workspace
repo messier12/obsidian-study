@@ -12,12 +12,8 @@
             "type": "leaf",
             "dimension": 48.60088365243005,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robotics/Control/Model Predictive Control.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -90,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/Control/Model Predictive Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +109,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 443
   },
   "active": "7f0805921f23710d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Robotics/Control/Model Predictive Control.md",
     "Robotics/Control/DC-MPC.md",
     "Robotics/Robotics Software Engineering/My Moblie Robot ROS Stack.md",
-    "conflict-files-obsidian-git.md",
     "Robotics/Signal and System/Discretization.md",
     "Controller.md",
     "Robotics/TODO.md",
