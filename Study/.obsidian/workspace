@@ -10,12 +10,12 @@
           {
             "id": "7f0805921f23710d",
             "type": "leaf",
-            "dimension": 65.41129831516352,
+            "dimension": 48.60088365243005,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics/Robotics Software Engineering/My Moblie Robot ROS Stack.md",
-                "mode": "preview",
+                "file": "Robotics/Control/Model Predictive Control.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -23,7 +23,7 @@
           {
             "id": "77f92c3af8fea488",
             "type": "leaf",
-            "dimension": 34.58870168483647,
+            "dimension": 51.399116347569965,
             "state": {
               "type": "markdown",
               "state": {
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/Robotics Software Engineering/My Moblie Robot ROS Stack.md",
+                "file": "Robotics/Control/Model Predictive Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,13 +118,14 @@
   },
   "active": "7f0805921f23710d",
   "lastOpenFiles": [
+    "Robotics/Control/Model Predictive Control.md",
+    "Robotics/Control/DC-MPC.md",
     "Robotics/Robotics Software Engineering/My Moblie Robot ROS Stack.md",
+    "conflict-files-obsidian-git.md",
     "Robotics/Signal and System/Discretization.md",
     "Controller.md",
-    "Robotics/Control/Model Predictive Control.md",
     "Robotics/TODO.md",
     "Robotics/Untitled.md",
-    "Robotics/Control/DC-MPC.md",
     "Robotics/Control/Predictive Control.md"
   ]
 }
