@@ -4,28 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "77f92c3af8fea488",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Robotics/Control/Model Predictive Control.md",
-            "mode": "source",
-            "source": false
+        "id": "6a7092867bb9f9d0",
+        "type": "split",
+        "children": [
+          {
+            "id": "7f0805921f23710d",
+            "type": "leaf",
+            "dimension": 65.41129831516352,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics/Robotics Software Engineering/My Moblie Robot ROS Stack.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77f92c3af8fea488",
+            "type": "leaf",
+            "dimension": 34.58870168483647,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics/Robotics Software Engineering/My Moblie Robot ROS Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "930a83ef1dcdf4c9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Robotics/Signal and System/Discretization.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -81,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/Control/Model Predictive Control.md",
+                "file": "Robotics/Robotics Software Engineering/My Moblie Robot ROS Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,11 +116,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "77f92c3af8fea488",
+  "active": "7f0805921f23710d",
   "lastOpenFiles": [
+    "Robotics/Robotics Software Engineering/My Moblie Robot ROS Stack.md",
+    "Robotics/Signal and System/Discretization.md",
+    "Controller.md",
     "Robotics/Control/Model Predictive Control.md",
     "Robotics/TODO.md",
-    "Robotics/Signal and System/Discretization.md",
     "Robotics/Untitled.md",
     "Robotics/Control/DC-MPC.md",
     "Robotics/Control/Predictive Control.md"
